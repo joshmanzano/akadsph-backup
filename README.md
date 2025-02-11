@@ -1,7 +1,7 @@
 # Akads PH
-Akads PH is currently an **open-source** project (formerly a **startup**) that aims to build an all-in-one tutoring platform that provides tutors and students a space to conduct their **tutoring** sessions without any worries.
+Akads PH is an **open-source** project (formerly a **startup**) that aims to build an all-in-one tutoring platform, providing both tutors and students with a seamless and worry-free space for **tutoring** sessions.
 
-This repository serves as the **frontend** repository as well as the main repository for showcasing work done for Akads PH.
+This repository serves as the **frontend** repository and the main hub for showcasing work on Akads PH and relevant awards.
 
 For more details about the **backend**, see the corresponding backend repository: [akadsph-backend](https://github.com/joshmanzano/akadsph-backend)
 
@@ -9,14 +9,16 @@ For more details about the **backend**, see the corresponding backend repository
 **Software Engineers**
 
 * [Josh Manzano](https://www.linkedin.com/in/joshmanzano-dev/) (tech lead, fullstack developer)
-* [Adrienne Soliven](https://www.linkedin.com/in/adrienne-soliven-7725831aa/) (frontend developer, UX/UI researcher)
+* [Adrienne Soliven](https://www.linkedin.com/in/adrienne-soliven-7725831aa/) (lead frontend developer, UX/UI researcher)
+* **Former Contributors:** Rolo Pena, Tadhg McCarthy (contributed as contractors for a startup)
 
 **Managers**
 
 * Angela Mercado 
 * Charles Samoy
+* **Former Managers:** Apa Aquino, Pao Reganit (contributed before the project became open-source)
 
-## Social Media
+## Connect With Us
 - **Facebook**: [LearnWithAkads](https://www.facebook.com/LearnWithAkads/)
 - **Instagram**: [akadsph](http://instagram.com/akadsph)
 - **LinkedIn**: [akads-ph](https://www.linkedin.com/company/akads-ph/)
